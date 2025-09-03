@@ -43,7 +43,7 @@ git clone https://github.com/yourusername/snappit.git
 
 ## Navigate into project
 ```
-cd snappit
+cd trubit
 ```
 
 ## Install dependencies for client and server
