@@ -1,6 +1,6 @@
-# Snappit
+# Trubit.com
 
-Snappit is a modern web platform that connects users with **instant, verified household and daily help services** such as maids, cooks, babysitters, drivers, and more — available on-demand.  
+Trubit is a modern web platform that connects users with **instant, verified household and daily help services** such as maids, cooks, babysitters, drivers, and more — available on-demand.  
 
 ## 🚀 Features
 - 📅 **Instant Booking** – Request help in real time.  
