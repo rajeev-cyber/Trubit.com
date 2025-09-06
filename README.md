@@ -18,15 +18,17 @@ Trubit is a modern web platform that connects users with **instant, verified hou
 - **Hosting:** Vercel / Netlify (frontend), Render / AWS (backend)  
 
 ## 📂 Project Structure
-snappit/
-├── client/
-├── server/
-├── docs/
-│   ├── wireframes/
-│   │   ├── homepage.png
-│   │   ├── booking-flow.png
-│   │   └── provider-profile.png
+```plaintext
+Trubit/
+├── client/               # Frontend (React + Tailwind)
+├── server/               # Backend (Node.js + Express)
+├── docs/                 # Documentation
+│   └── wireframes/       # Wireframe images
+│       ├── homepage.png
+│       ├── booking-flow.png
+│       └── provider-profile.png
 └── README.md
+```
 
 ## ⚡ Getting Started
 
